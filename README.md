@@ -4,9 +4,11 @@ Este videojuego 2D colaborativo lo diseñamos como un rpg con la libreria LIBGDX
 ![Logo de mi proyecto](four.png)
 
 Mas imagenes del Juego
+
 ![Logo de mi proyecto](one.png)
 ![Logo de mi proyecto](two.png)
 ![Logo de mi proyecto](three.png)
+
 ## Install
 par instalar este juego simplemente cargas el archivo .sql ubicado en la ruta al gestor de base de datos. 
 ```bash
